@@ -1,4 +1,4 @@
-<?php
+7<?php
 class db {
 
 //    protected $connection;
@@ -26,9 +26,9 @@ class db {
 	    {
 			$isDebug = false;
 			$servername = 'localhost';
-			$username = 'id20973383_istiyadi';
-			$password = 'f!&NAe5QvIYc%>zM';
-			$database = 'id20973383_dbabkapp';
+			$username = 'root';
+			$password = '';
+			$database = 'staryou';
 			
             // Create connection
             $conn = new mysqli($servername, $username, $password, $database);
@@ -62,9 +62,8 @@ class db {
     public function fetchAll() {
         
           $conn = $this->getKoneksi();
-            
-	    $result  = mysqli_query($conn, $this->sqlQuery);
-	    
+          
+          $result  = mysqli_query($conn, $this->sqlQuery);
         $arr1 = array();
 	    if($result != '1')
 	    {
@@ -75,10 +74,11 @@ class db {
 	        
 	        return $arr1;
 	    }
-        //print_r($result);
+    
         $this->query_count = 0;
             while ($row = mysqli_fetch_array($result))
             {  
+        // print_r("tes");
                 array_push($arr1,$row);
                 $this->query_count = $this->query_count + 1;
             }

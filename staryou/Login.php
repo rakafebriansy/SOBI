@@ -54,7 +54,8 @@ if(isset($_POST["InputEmail"]))
             $_SESSION['surel'] = $row['surel'];
             $_SESSION['no_hp'] = $row['no_hp'];
         }
-        $_SESSION['base_url'] = 'https://abkaplikasi2023.000webhostapp.com'; //'http://localhost/staryou';
+        // $_SESSION['base_url'] = 'https://abkaplikasi2023.000webhostapp.com'; 'http://localhost/staryou';
+        $_SESSION['base_url'] = 'http://localhost/staryou';
     }
 	
 }

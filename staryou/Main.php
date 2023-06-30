@@ -92,7 +92,7 @@ session_start();
             }
             else 
             {
-                $url = $_SESSION['base_url'].'/Login.php';
+                $url = $_SESSION['base_url'].'/staryou/Login.php';
                 header("Location: ".$url);
                 die();
 
