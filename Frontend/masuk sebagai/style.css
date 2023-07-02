@@ -1,0 +1,169 @@
+.anda-masuk-sebagai {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .anda-masuk-sebagai .div {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: transparent;
+    height: 932px;
+    overflow: hidden;
+    position: relative;
+    width: 430px;
+  }
+  
+  .anda-masuk-sebagai .overlap {
+    height: 434px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 482px;
+  }
+  
+  .anda-masuk-sebagai .ellipse {
+    background-color: #004AAD;
+    border-radius: 87.5px/85px;
+    filter: blur(120px);
+    height: 170px;
+    left: -230px;
+    position: absolute;
+    top: -120px;
+    width: 384px;
+  }
+  
+  .anda-masuk-sebagai .ellipse-2 {
+    background-color: #f47016;
+    border-radius: 87.5px/85px;
+    filter: blur(120px);
+    height: 170px;
+    left: 307px;
+    position: absolute;
+    top: 256px;
+    width: 175px;
+  }
+  
+  .anda-masuk-sebagai .text-wrapper {
+    color: #000000;
+    font-family: "Roboto-SemiBold", Helvetica;
+    font-size: 32px;
+    font-weight: 600;
+    left: 103px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 301px;
+    width: 239px;
+  }
+  
+  .anda-masuk-sebagai .rectangle {
+    height: 63px;
+    left: 39px;
+    position: absolute;
+    top: 371px;
+    width: 353px;
+  }
+  
+  .anda-masuk-sebagai .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 160px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 384px;
+    width: 149px;
+    z-index: 1;
+  }
+  
+  .anda-masuk-sebagai .sobi-removebg {
+    height: 170px;
+    left: 127px;
+    position: absolute;
+    top: 118px;
+    width: 164px;
+  }
+  
+  .anda-masuk-sebagai .ellipse-3 {
+    background-color: #f47016;
+    border-radius: 97.5px/95px;
+    filter: blur(120px);
+    height: 190px;
+    left: 290px;
+    position: absolute;
+    top: 301px;
+    width: 195px;
+  }
+  
+  .anda-masuk-sebagai .overlap-group {
+    height: 188px;
+    left: -61px;
+    position: absolute;
+    top: 527px;
+    width: 453px;
+  }
+  
+  .anda-masuk-sebagai .ellipse-4 {
+    background-color: #004aad;
+    border-radius: 87.5px/85px;
+    filter: blur(120px);
+    height: 170px;
+    left: 0;
+    position: absolute;
+    top: 18px;
+    width: 175px;
+  }
+  
+  .anda-masuk-sebagai .img {
+    height: 63px;
+    left: 100px;
+    position: absolute;
+    top: 0;
+    width: 353px;
+    z-index: 1;
+  }
+  
+  .anda-masuk-sebagai .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 242px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    width: 84px;
+    z-index: 2;
+  }
+  
+  .anda-masuk-sebagai .div-wrapper {
+    background-image: url(./rectangle-3.svg);
+    background-size: 100% 100%;
+    height: 63px;
+    left: 39px;
+    position: absolute;
+    top: 449px;
+    width: 353px;
+    z-index: 1;
+  }
+  
+  .anda-masuk-sebagai .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 119px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 149px;
+    z-index: 2;
+  }
+  
