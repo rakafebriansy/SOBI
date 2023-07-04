@@ -1,0 +1,134 @@
+.tampilan-awal {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .tampilan-awal .div {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: transparent;
+    height: 932px;
+    overflow: hidden;
+    position: relative;
+    width: 430px;
+  }
+  
+  .tampilan-awal .overlap {
+    height: 529px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 482px;
+  }
+  
+  .tampilan-awal .ellipse {
+    border-radius: 87.5px/85px;
+    filter: blur(90px);
+    height: 387px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 384px;
+  }
+  
+  .tampilan-awal .ellipse-2 {
+    background-color: #f47016;
+    border-radius: 87.5px/85px;
+    filter: blur(120px);
+    height: 170px;
+    left: 307px;
+    position: absolute;
+    top: 256px;
+    width: 175px;
+  }
+  
+  .tampilan-awal .sobi-removebg {
+    height: 265px;
+    left: 105px;
+    position: absolute;
+    top: 264px;
+    width: 231px;
+  }
+  
+  .tampilan-awal .ellipse-3 {
+    background-color: #004aad;
+    border-radius: 87.5px/85px;
+    filter: blur(110px);
+    height: 170px;
+    left: -61px;
+    position: absolute;
+    top: 545px;
+    width: 175px;
+  }
+  
+  .tampilan-awal .overlap-group {
+    height: 190px;
+    left: 136px;
+    position: absolute;
+    top: 771px;
+    width: 328px;
+  }
+  
+  .tampilan-awal .ellipse-4 {
+    background-color: #f47016;
+    border-radius: 97.5px/95px;
+    filter: blur(110px);
+    height: 190px;
+    left: 203px;
+    position: absolute;
+    top: 880px;
+    width: 395px;
+  }
+  
+  .tampilan-awal .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 46px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 27px;
+    width: 133px;
+  }
+  
+  .tampilan-awal .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 52px;
+    width: 196px;
+  }
+  
+  .tampilan-awal .overlap-group-2 {
+    height: 85px;
+    left: 134px;
+    position: absolute;
+    top: 568px;
+    width: 165px;
+  }
+  
+  .tampilan-awal .img {
+    height: 62px;
+    left: 25px;
+    position: absolute;
+    top: 0;
+    width: 112px;
+  }
+  
+  .tampilan-awal .sobi-removebg-2 {
+    height: 45px;
+    left: 0;
+    position: absolute;
+    top: 40px;
+    width: 165px;
+  } 

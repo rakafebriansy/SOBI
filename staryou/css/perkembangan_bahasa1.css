@@ -1,0 +1,662 @@
+.fitur_perkembangan {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+  .fitur_perkembangan .div {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: darkgrey;
+  height: 861px;
+  overflow: hidden;
+  position: relative;
+  width: 430px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  }
+
+  .fitur_perkembangan .overlap {
+  background-color: #DFE8F5;
+  border: 1px solid;
+  border-color: #aaa2a2;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 410px;
+  }
+
+  .fitur_perkembangan .rectangle {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 85px;
+    left: 33px;
+    position: absolute;
+    top: 114px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame {
+    height: 30px;
+    left: 50px;
+    position: absolute;
+    top: 10px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-6 {
+    height: 30px;
+    position: absolute;
+    top: 10px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-5 {
+    height: 30px;
+    left: 350px;
+    position: absolute;
+    top: 10px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 108px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 136px;
+    width: 149px;
+  }
+
+  .fitur_perkembangan .frame-16 {
+    height: 40px;
+    left: 343px;
+    position: absolute;
+    top: 122px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 154px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .rectangle-2 {
+    background-color: #dfe8f5;
+    border-radius: 20px;
+    height: 130px;
+    left: 0;
+    position: absolute;
+    top: 148px;
+    width: 430px;
+  }
+
+  .fitur_perkembangan .frame-2 {
+    height: 45px;
+    left: 49px;
+    position: absolute;
+    top: 170px;
+    width: 45px;
+  }
+
+  .fitur_perkembangan .frame-3 {
+    height: 45px;
+    left: 332px;
+    position: absolute;
+    top: 172px;
+    width: 45px;
+  }
+
+  .fitur_perkembangan .frame-4 {
+    height: 45px;
+    left: 193px;
+    position: absolute;
+    top: 172px;
+    width: 45px;
+  }
+
+  .fitur_perkembangan .ellipse {
+    background-color: #f47016;
+    border-radius: 87.5px/85px;
+    filter: blur(250px);
+    height: 170px;
+    left: 324px;
+    position: absolute;
+    top: 0;
+    width: 175px;
+  }
+
+  .fitur_perkembangan .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 355px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+  }
+
+  .fitur_perkembangan .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 42px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+  }
+
+  .fitur_perkembangan .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 50px;
+  }
+
+  .fitur_perkembangan .overlap-9 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 85px;
+    left: -1px;
+    position: absolute;
+    top: 65px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-3 {
+    height: 40px;
+    left: 309px;
+    position: absolute;
+    top: 14px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-4 {
+    height: 40px;
+    left: 15px;
+    position: absolute;
+    top: 16px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .sosial-emosional {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 149px;
+  }
+
+  .fitur_perkembangan .text-wrapper-16 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 41px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .overlap-10 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 85px;
+    left: -1px;
+    position: absolute;
+    top: 165px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-16 {
+    height: 40px;
+    left: 309px;
+    position: absolute;
+    top: 14px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-2 {
+    height: 40px;
+    left: 15px;
+    position: absolute;
+    top: 16px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 149px;
+  }
+
+  .fitur_perkembangan .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 41px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 104px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 41px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .overlap-group {
+    height: 256px;
+    left: -81px;
+    position: absolute;
+    top: -84px;
+    width: 480px;
+  }
+
+  .fitur_perkembangan .text-wrapper-7 {
+    color: #000000;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 23px;
+    font-weight: 600;
+    left: 126px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+    width: 216px;
+  }
+
+  .fitur_perkembangan .frame-7 {
+    height: 30px;
+    left: 94px;
+    position: absolute;
+    top: 118px;
+    width: 30px;
+  }
+
+  .fitur_perkembangan .ellipse-2 {
+    background-color: #f47016;
+    border-radius: 97.5px/95px;
+    filter: blur(110px);
+    height: 190px;
+    left: 203px;
+    position: absolute;
+    top: 880px;
+    width: 395px;
+  }
+
+  .fitur_perkembangan .rectangle-4 {
+    background-color: #dfe7f3;
+    background-color: #dfe7f3;
+    height: 75px;
+    left: 114px;
+    position: absolute;
+    top: 160px;
+    padding: 20px;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .fitur_perkembangan .content-wrapper {
+    display: flex;
+    align-items: center;
+  }
+
+  .fitur_perkembangan .p {
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  .fitur_perkembangan .sobi-removebg {
+    max-width: 30%;
+    height: auto;
+  }
+
+  .fitur_perkembangan .overlap-2 {
+    height: 75px;
+    left: 25px;
+    position: absolute;
+    top: 230px;
+    width: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+
+  .fitur_perkembangan .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 55px;
+  }
+
+  .fitur_perkembangan .frame-8 {
+    height: 30px;
+    left: 46px;
+    position: absolute;
+    top: 0;
+    width: 30px;
+  }
+
+  .fitur_perkembangan .overlap-3 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 62px;
+    position: absolute;
+    top: 270px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .text-wrapper-9 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 14px;
+    font-weight: 300;
+    left: 28px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 247px;
+  }
+
+  .fitur_perkembangan .rectangle-5 {
+    background-color: #d9d9d9;
+    border-radius: 5px;
+    height: 15px;
+    left: 28px;
+    position: absolute;
+    top: 32px;
+    width: 310px;
+  }
+
+  .fitur_perkembangan .overlap-4 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 85px;
+    left: -1px;
+    position: absolute;
+    top: 75px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-9 {
+    height: 40px;
+    left: 309px;
+    position: absolute;
+    top: 14px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-10 {
+    height: 40px;
+    left: 15px;
+    position: absolute;
+    top: 16px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-10 {
+    color: #000000;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 22px;
+    width: 149px;
+  }
+
+  .fitur_perkembangan .text-wrapper-11 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 43px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .overlap-5 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 85px;
+    left: -1px;
+    position: absolute;
+    top: 175px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-11 {
+    height: 40px;
+    left: 309px;
+    position: absolute;
+    top: 14px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .frame-12 {
+    height: 40px;
+    left: 15px;
+    position: absolute;
+    top: 16px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-12 {
+    color: #000000;
+    font-family: "Inter-Light", Helvetica;
+    font-size: 12px;
+    font-weight: 300;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 42px;
+    width: 129px;
+  }
+
+  .fitur_perkembangan .overlap-6 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 51px;
+    left: -1px;
+    position: absolute;
+    top: 261px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-13 {
+    height: 40px;
+    left: 310px;
+    position: absolute;
+    top: 6px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-13 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 75px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 12px;
+    width: 221px;
+  }
+
+  .fitur_perkembangan .rectangle-6 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 21px;
+    left: 22px;
+    position: absolute;
+    top: 13px;
+    width: 27px;
+  }
+
+  .fitur_perkembangan .overlap-7 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 51px;
+    left: -1px;
+    position: absolute;
+    top: 51px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-14 {
+    height: 40px;
+    left: 310px;
+    position: absolute;
+    top: 6px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-14 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 221px;
+  }
+
+  .fitur_perkembangan .rectangle-8 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 21px;
+    left: 23px;
+    position: absolute;
+    top: 14px;
+    width: 27px;
+  }
+
+  .fitur_perkembangan .overlap-8 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #aaa2a2;
+    height: 51px;
+    left: -1px;
+    position: absolute;
+    top: 51px;
+    width: 368px;
+  }
+
+  .fitur_perkembangan .frame-15 {
+    height: 40px;
+    left: 310px;
+    position: absolute;
+    top: 6px;
+    width: 40px;
+  }
+
+  .fitur_perkembangan .text-wrapper-15 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 76px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    width: 221px;
+  }
+
+  .fitur_perkembangan .rectangle-10 {
+    background-color: #ffffff;
+    border: 1px solid;
+    border-color: #000000;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 21px;
+    left: 23px;
+    position: absolute;
+    top: 14px;
+    width: 27px;
+  }
